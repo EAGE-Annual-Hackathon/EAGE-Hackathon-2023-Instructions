@@ -24,7 +24,7 @@ The facilitators will provide some ideas to get you thinking - you can find this
 4. Yes, there will be a final presentation from each team with two teams up for award from a judging panel of experts and from the hackathon participants.
 - The facilitators will reveal the criteria for the presentation Monday morning (this is so you can focus on your work and not on creating a presentation 😊)
 - Remember to take screenshots, record methods, and document your thought process along the way – this will help you to faster put together a final presentation.
-5. During the hackathon – all participants need to join the 3 online plenum sessions – the introduction on Day 1, CODE FREEZE on Day 2, and the Final Presentations and Voting on Day 2.  Final presentation session will be recorded.
+5. Final presentation session will be recorded.
 
 ## The Agenda:
 Sunday 5 June:
