@@ -48,7 +48,7 @@ Monday 6 June
 ### Food:
 Ample amounts of coffee will be provided, but you will be expected to pay for your own meals.  There are plenty of options both inside of the conference center and immediately outside.
 ### Location:
-The hackathon will be at the same conference venue as the rest of EAGE Annual:
+The hackathon will be at the same conference venue as the rest of EAGE Annual: Messe Wien Exhibition & Congress Center, Room 1 (Schubert 1-2)
 
 ## Meet your Facilitators:
 Lukas received his P.h.D from Imperial College London, where he worked on the stochastic reconstruction of porous media and geophysical inverse problems using deep learning.  He currently also serves as a member of the EAGE AI committee and SEG special interest group for machine learning.
