@@ -5,18 +5,17 @@ Hackathon at the 84rd EAGE Annual Conference, Vienna
 
 # Participant Guide
 
-This event will be facilitated in English.
+This event will be facilitated in English and will be an in-person only event this year!
 
 ## What you need to do as a hackathon participant:
-1. Before the hackathon: Find a team if you don’t already have one.  We will use a Github discussion board – so if you are looking for a team to join or have a topic that you would like some people to help you work on – please post.
+1.  Find a team if you don’t already have one.  We will use a Github discussion board – so if you are looking for a team to join or have a topic that you would like some people to help you work on – please post.
 - There will be some time on Sunday morning to finalize the teams, but the expectation is that you have tried to find a team upfront.
-2. Before the hackathon: Get your team ready!
-- If you are attending remotely – find a good place for you or your team to work with good internet connection – coffee shop, somewhere at the university, or at a teammate’s home.  We highly recommend that those attending remotely from the same city try to collocate in person even if you aren’t on the same team!
-- If you are coming to Madrid – you will need to bring your laptop, headset, and power cable.
+2. Get your team ready!
+- You will need to bring your laptop and power cable.
 - Ideate around the technical challenge your team will work on.  You can use our Github discussion board for this.  Remember the theme!
-- What data do you need?
+- What data do you need?  The hackathon facilitators will put together some data for you to use.
 - Are you going to use an existing model or build one from scratch?
- - What technology will your team use (python packages, dashboards, interpreters..etc)
+ - What technology will your team use (python packages, dashboards, interpreters..etc).  
 The facilitators will provide some ideas to get you thinking - you can find this thread in the discussion board above.
 3. Familiarize yourself with the agenda.
 - This is a fairly short hackathon.  Your team will be expected to present your final outcome on Monday afternoon at 15:00.  That means code freeze will happen at 13:00.
@@ -25,6 +24,8 @@ The facilitators will provide some ideas to get you thinking - you can find this
 - The facilitators will reveal the criteria for the presentation Monday morning (this is so you can focus on your work and not on creating a presentation 😊)
 - Remember to take screenshots, record methods, and document your thought process along the way – this will help you to faster put together a final presentation.
 5. Final presentation session will be recorded.
+6. You are expected to upload all code to a repository in this Github organization.
+7. Please note that the award winners will be asked to present their results at the Dedicated Session "Going Big - Scaling Machine Learning for Geosciences and Engineering".
 
 ## The Agenda:
 Sunday 5 June:
