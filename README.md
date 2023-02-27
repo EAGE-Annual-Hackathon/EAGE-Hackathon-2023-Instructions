@@ -8,7 +8,7 @@ Hackathon at the 84rd EAGE Annual Conference, Vienna
 This event will be facilitated in English and will be an in-person only event this year!
 
 ## What you need to do as a hackathon participant:
-1.  Find a team if you don’t already have one.  We will use a Github discussion board – so if you are looking for a team to join or have a topic that you would like some people to help you work on – please post.
+1.  Find a team if you don’t already have one.  We will use a [Github discussion board](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/7) – so if you are looking for a team to join or have a topic that you would like some people to help you work on – please post.
 - There will be some time on Sunday morning to finalize the teams, but the expectation is that you have tried to find a team upfront.
 2. Get your team ready!
 - You will need to bring your laptop and power cable.
