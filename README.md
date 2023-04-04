@@ -16,7 +16,7 @@ This event will be facilitated in English and will be an in-person only event th
     - What data do you need?  The hackathon facilitators will put together some data for you to use.
     - Are you going to use an existing model or build one from scratch?
         - What technology will your team use (python packages, dashboards, interpreters..etc).  
-The facilitators will provide some ideas to get you thinking - you can find this thread in the discussion board above.
+The facilitators will provide some ideas to get you thinking - you can find [this thread](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/9) in the discussion board above.
 3. Familiarize yourself with the agenda.
     - This is a fairly short hackathon.  Your team will be expected to present your final outcome on Monday afternoon at 15:00.  That means code freeze will happen at 13:00.
     - With your team, try to come up with a plan of attack keeping in mind the short time.
