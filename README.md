@@ -53,7 +53,5 @@ The hackathon will be at the same conference venue as the rest of EAGE Annual: M
 
 ## Meet your Facilitators:
 Lukas Mosser - Lukas received his P.h.D from Imperial College London, where he worked on the stochastic reconstruction of porous media and geophysical inverse problems using deep learning.  He currently also serves as a member of the EAGE AI committee and SEG special interest group for machine learning.  lukas.mosser@gmail.com
-<br /> Jan van de Mortel - 
-<br /> Oleg Ovcharenko - 
-<br />Ilaria Meggetto [EAGE] is our contact at EAGE.
+<br />Ilaria Meggetto [EAGE] is our contact at EAGE.  imo@eage.org or communities@eage.org 
 <br />If you need anything from us or have questions please contact us via the email addresses above.
