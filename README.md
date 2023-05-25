@@ -29,13 +29,13 @@ The facilitators will provide some ideas to get you thinking - you can find [thi
 8. Do you have an all access pass?  If you booked the hackathon as part of your EAGE Annual All Access Pass but you realized this activity is not for you (or your availability has changed) please change your selection so that others can participate. Please note the hackathon has limited capacity and participants are expected to attend both days. Thank you!
 
 ## The Agenda:
-Sunday 5 June:
+Sunday 4 June:
 <br /> 9:00 - 9:30 CEST - Welcome and coffee
 <br /> 9:30 - 10:30 CEST - Introduction to the theme 
 <br /> 10:30 – 11:00 CEST – Project and team discovery time
 <br /> 11:00 - 18:00 CEST -  Hacking all day
  
-Monday 6 June
+Monday 5 June
 <br /> 9:00 - 9:30 CEST - Welcome and coffee
 <br /> 9:30 - 15:00 CEST - Hacking and preparation of presentations
 <br /> 13:00 CEST: CODE FREEZE – Final Presentation Instructions
