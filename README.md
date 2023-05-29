@@ -18,7 +18,7 @@ This event will be facilitated in English and will be an in-person only event th
         - What technology will your team use (python packages, dashboards, interpreters..etc).  
 The facilitators will provide some ideas to get you thinking - you can find [this thread](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/9) in the discussion board above.
 3. Familiarize yourself with the agenda.
-    - This is a fairly short hackathon.  Your team will be expected to present your final outcome on Monday afternoon at 15:00.  That means code freeze will happen at 13:00.
+    - This is a fairly short hackathon.  Your team will be expected to present your final outcome on Monday afternoon at 14:00.  That means code freeze will happen at 12:00.
     - With your team, try to come up with a plan of attack keeping in mind the short time.
 4. Yes, there will be a final presentation from each team with two teams up for award from a judging panel of experts and from the hackathon participants.
     - The facilitators will reveal the criteria for the presentation Monday morning (this is so you can focus on your work and not on creating a presentation 😊)
@@ -31,27 +31,28 @@ The facilitators will provide some ideas to get you thinking - you can find [thi
 ## The Agenda:
 Sunday 4 June:
 <br /> 9:00 - 9:30 CEST - Welcome and coffee
-<br /> 9:30 - 10:30 CEST - Introduction to the theme 
+<br /> 9:30 - 10:30 CEST - Introduction to the theme & hackathon modalities
 <br /> 10:30 – 11:00 CEST – Project and team discovery time
 <br /> 11:00 - 18:00 CEST -  Hacking all day
  
 Monday 5 June
-<br /> 9:00 - 9:30 CEST - Welcome and coffee
-<br /> 9:30 - 15:00 CEST - Hacking and preparation of presentations
-<br /> 13:00 CEST: CODE FREEZE – Final Presentation Instructions
-<br /> 13:15-15:00 CEST – Time for working and practicing presentations
-<br /> 15:00 - 16:30 CEST - Presentations to the Judging Panel 
-<br /> 16:30 - 17:00 CEST - Announcement of the winners and prizes*
+<br /> 9:00 - 9:15 CEST - Welcome and coffee
+<br /> 9:15 - 12:00 CEST - Hacking and preparation of presentations
+<br /> 12:00 CEST: CODE FREEZE – Final Presentation Instructions
+<br /> 12:15-14:00 CEST – Time for working and practicing presentations
+<br /> 14:00 - 15:15 CEST - Presentations to the Judging Panel 
+<br /> 15:15 - 15:45 CEST - Announcement of the winners and prizes*
  
 # Remember – hackathons aren’t about coming up with the perfect solution – it is about exploring ideas, understanding what doesn’t work, and of course having FUN!
  
 ## Practicalities in Vienna:
 ### Food:
 Ample amounts of coffee will be provided, but you will be expected to pay for your own meals.  There are plenty of options both inside of the conference center and immediately outside.
+
 ### Location:
 The hackathon will be at the same conference venue as the rest of EAGE Annual: Messe Wien Exhibition & Congress Center, Room 1 (Schubert 1-2)
 
 ## Meet your Facilitators:
-Lukas Mosser - Lukas received his P.h.D from Imperial College London, where he worked on the stochastic reconstruction of porous media and geophysical inverse problems using deep learning.  He currently also serves as a member of the EAGE AI committee and SEG special interest group for machine learning.  lukas.mosser@gmail.com
+Lukas Mosser - Lukas received his Ph.D from Imperial College London, where he worked on the stochastic reconstruction of porous media and geophysical inverse problems using deep learning.  He currently also serves as a member of the EAGE AI committee and SEG special interest group for machine learning.  lukas.mosser@gmail.com
 <br />Ilaria Meggetto [EAGE] is our contact at EAGE.  imo@eage.org or communities@eage.org 
 <br />If you need anything from us or have questions please contact us via the email addresses above.
